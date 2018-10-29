@@ -1,0 +1,28 @@
+/* .padding {
+	padding: 30px;
+} */
+
+.w-50 {
+	width: 50% !important;
+}
+.pad {
+	padding: 20px 2%;
+}
+
+.adv_small {
+	display: none;
+}
+/* .card {
+	width: 20rem;
+	margin: 10px;
+}
+ */
+
+ @media (max-width: 768px){
+ 	.adv_small {
+ 		display: block !important;
+ 	}
+ 	.adv_big {
+ 		display: none !important;
+ 	}
+ }
